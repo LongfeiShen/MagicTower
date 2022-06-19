@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 
 class Monster {
   constructor(life, attack, defence, money, exp, imgSrc) {
