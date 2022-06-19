@@ -1,0 +1,20 @@
+.panelContent {
+  font-size: 30px;
+  color: white;
+}
+
+.panelDetail {
+  /* padding: 10px; */
+  text-align: left;
+}
+.panelDetail p {
+  display: inline-block;
+  padding-right: 60px;
+}
+.panelKey p {
+  display: inline-block;
+  text-align: justify;
+}
+.panelKey img {
+  padding-right: 60px;
+}
