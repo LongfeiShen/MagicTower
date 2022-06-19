@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 import { getMaps } from "./mapsData.js";
 import { createGridsHtml } from "./grids.js";
 class Maps {
