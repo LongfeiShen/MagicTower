@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 import { monstersData } from "./monster.js";
 // Interactions with props
 const interactionWithProp = function (positionInfo, brave) {
