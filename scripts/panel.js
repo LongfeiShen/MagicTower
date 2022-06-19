@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 
 const createPanelHtml = function (brave) {
   let panel = `<div class="panelContent" style="position: absolute;left:${
