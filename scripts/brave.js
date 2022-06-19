@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 import { Maps } from "./map.js";
 import { notAllowedToPass } from "./mapsData.js";
 import { createGridsHtml } from "./grids.js";
