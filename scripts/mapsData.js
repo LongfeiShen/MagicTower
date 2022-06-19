@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 import { getMonsterSrc } from "./monster.js";
 import { getImgSrc } from "./imageData.js";
 // commonly used images
