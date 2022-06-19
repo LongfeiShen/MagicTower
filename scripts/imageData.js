@@ -1,4 +1,4 @@
-"strict mode";
+"use strict";
 
 // This collects all images src we need.
 const imgSrc = {
