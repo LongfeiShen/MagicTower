@@ -1,4 +1,4 @@
-"strict_mode";
+"use strict";
 import { createGridsHtml } from "./scripts/grids.js";
 import { Brave } from "./scripts/brave.js";
 import { Maps } from "./scripts/map.js";
